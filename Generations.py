@@ -1,10 +1,7 @@
 import sys
 import numpy as np
-from termcolor import cprint as __,\
-                      colored as _c
 from copy import deepcopy
 from random import choice, randint as ri
-
 
 
 def int_to_list(num):
